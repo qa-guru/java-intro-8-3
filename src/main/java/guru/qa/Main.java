@@ -6,7 +6,7 @@ public class Main {
     Byte aByte = 1;
     Short aShort = 2;
     Integer anInt = 3;
-    long aLong = 5;
+    Long aLong = 5L;
     Float aFloat = 0.12f;
     Double aDouble = null;
     Boolean aBoolean = true;
